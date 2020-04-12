@@ -169,7 +169,7 @@ void insertionSort(int a[], int n) {
 //conquer
 void merge(int a[], int low, int mid, int high) {
 	int b[1000]; //Temporary arr
-	int i = low, j = mid + 1, k = 0; //시작선수들
+	int i = low, j = mid + 1, k = 0; 
 
 	//Until one side is wiped out
 	while (i <= mid && j <= high) {
