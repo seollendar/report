@@ -28,7 +28,8 @@ QuickSort
 
 배열의 길이를 입력하세요 : 10  
 배열의 요소들을 입력하세요 : 80 20 100 50 40 90 70 10 30 60  
-INPUT ARRAY : 80 20 100 50 40 90 70 10 30 60  
+INPUT ARRAY : 80 20 100 50 40 90 70 10 30 60
+
 after QuickSort  : 10 20 30 40 50 60 70 80 90 100  
 Time spent Quicksorting : 0.000  
 
